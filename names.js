@@ -1,5 +1,5 @@
 // Crea una funzione che accetta due parametri: firstName, lastName.
-function FullName (firstName, lastName){
+function fullName (firstName, lastName){
     return {
         firstName, 
         lastName
